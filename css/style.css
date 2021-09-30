@@ -142,7 +142,7 @@ tr:nth-child(odd){
   background-color: transparent;
 }
 
-tr.hover{
+tr:hover{
   background-color: rgba(126, 8, 37, 0.25);
 }
 
